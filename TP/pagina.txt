@@ -1,0 +1,141 @@
+<html >
+<head>
+  <title>Página de Johnatan Ortiz </title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+    }
+
+
+    header {
+      background-color: #222;
+      color: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+
+    nav {
+      background-color: #ddd;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+
+    .margen {
+      width: 80%;
+      margin: auto;
+    }
+
+
+    .informacion {
+      background-color: rgb(255, 255, 255);
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid rgb(0, 0, 0);
+    }
+
+
+    .informacion h2 {
+      margin-top: 0;
+    }
+
+
+    .carac {
+      background-color: rgb(255, 255, 255);
+      padding: 15px;
+      border: 1px solid rgb(0, 0, 0);
+      margin-top: 20px;
+    }
+
+
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 20px;
+
+
+ 
+     
+
+
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>¿Que es el HTML?</h1>
+  </header>
+<div style="display: flex;justify-content: center; margin: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="HTML">
+</div>
+  <div class="margen">
+
+
+    <div class="informacion">
+      <h2>Definición:</h2>
+      <p> HTML (HyperText Markup Language) es el lenguaje básico que se utiliza para crear páginas web. No es un lenguaje de programación, sino un lenguaje de marcado que sirve para organizar y estructurar el contenido que aparece en una página, como textos, imágenes, enlaces, listas y más.
+Funciona mediante etiquetas que se escriben entre los signos “< >”. Estas etiquetas le indican al navegador cómo debe mostrar cada parte del contenido. Por ejemplo, hay etiquetas para títulos, párrafos, imágenes y enlaces.
+Cuando abrís una página en un navegador como Google Chrome o Mozilla Firefox, el navegador interpreta el código HTML y lo convierte en lo que ves en pantalla.
+Se llama “HyperText” porque permite crear enlaces que conectan una página con otra, formando así la red de sitios web que conocemos como internet. </p>
+    </div>
+
+
+    <div class="informacion">
+      <h2>Características: </h2>
+      <p>Una de sus características principales es el uso de etiquetas y atributos. Las etiquetas delimitan los elementos del contenido, mientras que los atributos proporcionan información adicional, como direcciones de enlaces, identificadores o características específicas de presentación. Esta estructura permite una organización clara y estandarizada del contenido.</p>
+
+
+<p>HTML constituye la base de todas las páginas web y es interpretado directamente por navegadores como Google Chrome o Mozilla Firefox, que transforman el código en una representación visual accesible para el usuario. Además, permite la creación de hipervínculos, lo que posibilita la conexión entre diferentes páginas y conforma la estructura de navegación de la web.</p>
+
+
+<p>Otra característica relevante es su capacidad para integrar contenido multimedia, como imágenes, audio y video, así como formularios interactivos que facilitan la interacción con el usuario. Asimismo, HTML se complementa con otras tecnologías como CSS, que se encarga del diseño y la presentación visual, y JavaScript, que añade dinamismo e interactividad.</p>
+
+
+<p>HTML es un lenguaje universal, compatible con múltiples dispositivos y sistemas operativos, lo que garantiza su visualización en computadoras, tablets y teléfonos móviles. También es un estándar regulado por organismos como W3C, lo que asegura su correcta implementación y evolución a lo largo del tiempo.</p>
+    </div>
+
+
+    <div class="carac">
+      <h3>Caracteristicas</h3>
+      <p>HTML 1.0 (1991): Primera versión creada por Tim Berners-Lee. Permitía mostrar texto simple y enlaces entre páginas, sentando las bases de la web.</p>
+<p>HTML 2.0 (1995): Primera versión estandarizada. Introdujo soporte para formularios y elementos básicos de estructura, asegurando compatibilidad entre navegadores.</p>
+<p>3.2 (1997): Incluyó mejoras en la presentación de contenido, como tablas, applets y opciones de diseño más avanzadas. Permitió crear páginas web más complejas y visualmente organizadas.</p>
+<p>HTML 4.01 (1999): Introdujo una separación clara entre contenido y diseño, fomentando el uso de CSS para el estilo visual. Mejoró la semántica y la accesibilidad de las páginas web.</p>
+<p>XHTML (2000): Versión basada en XML, más estricta en su sintaxis. Aunque no reemplazó completamente a HTML, contribuyó a estandarizar buenas prácticas en la codificación web.</p>
+<p>HTML5 (2014): Actualización más importante y moderna. Incluyó:
+Nuevas etiquetas semánticas (header, footer, article, section)
+Soporte nativo para audio y video
+Formularios mejorados
+Capacidades para aplicaciones web dinámicas
+Compatibilidad con dispositivos móviles</p>
+<p>HTML Living Standard (desde 2014 en adelante): HTML dejó de tener versiones numeradas y comenzó a evolucionar continuamente bajo el estándar mantenido por WHATWG y W3C, incorporando nuevas etiquetas y funciones según las necesidades de la web moderna.</p>
+   
+    </div>
+
+
+  </div>
+
+
+
+
+</body>
+</html>
+
+
